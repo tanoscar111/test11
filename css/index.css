@@ -1,0 +1,51 @@
+body{
+    padding: 0;
+    margin: 0;
+    max-width: 800px;
+    
+}
+header img{
+    height: 101px;
+    width: 105px;
+    float: left;
+    margin-right: 37px
+}
+header{
+    position: relative;
+    border: 3px solid red;
+    width: 700px;
+    height: 136px;
+    background: linear-gradient(30deg,#f6bb73 0%,#f6bb73 30%,white 50%, #f6bb73 80%,#f6bb73 100%);
+}
+}
+.header{
+    width: 100%;
+    padding: 0 1em 2em 3em;
+    height: auto;
+}
+header h2{
+    font-size: 2em;
+    color: red;
+}
+.pen{
+    text-shadow: 3px 2px 2px #931420;
+}
+
+header p{
+    font-size: 23px;
+    line-height: 0.4;
+    font-weight: 600;
+}
+nav li{
+    display: inline-block;
+}
+nav ul{
+    list-style-type: none;
+    background-color: #800000;
+}
+nav ul li{
+    width: 140px;
+    height: 50px;
+}
+
+
